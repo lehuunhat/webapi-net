@@ -1,0 +1,8 @@
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.csproj.AssemblyReference.cache
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.AssemblyInfoInputs.cache
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.AssemblyInfo.cs
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.csproj.CoreCompileInputs.cache
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\huunh\source\repos\webapi-net\HienTangToc\obj\Debug\net8.0\HienTangToc.sourcelink.json
